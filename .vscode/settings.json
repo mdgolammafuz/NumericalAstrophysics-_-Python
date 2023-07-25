@@ -1,1 +1,4 @@
-{}
+{
+  "cSpell.words": ["Indexin", "sampledict", "Schz"],
+  "python.analysis.extraPaths": ["./sympy/sympy/utilities"]
+}

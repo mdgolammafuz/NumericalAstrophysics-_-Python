@@ -1,4 +1,12 @@
 {
-  "cSpell.words": ["Amit", "Indexin", "Matthes", "Saha", "sampledict", "Schz"],
+  "cSpell.words": [
+    "Amit",
+    "Indexin",
+    "logspace",
+    "Matthes",
+    "Saha",
+    "sampledict",
+    "Schz"
+  ],
   "python.analysis.extraPaths": ["./sympy/sympy/utilities"]
 }

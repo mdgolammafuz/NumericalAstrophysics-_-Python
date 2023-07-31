@@ -1,6 +1,8 @@
 {
   "cSpell.words": [
     "Amit",
+    "eigen",
+    "Harmonograph",
     "Indexin",
     "integ",
     "logspace",
@@ -8,7 +10,8 @@
     "RMSE",
     "Saha",
     "sampledict",
-    "Schz"
+    "Schz",
+    "slicings"
   ],
   "python.analysis.extraPaths": ["./sympy/sympy/utilities"]
 }

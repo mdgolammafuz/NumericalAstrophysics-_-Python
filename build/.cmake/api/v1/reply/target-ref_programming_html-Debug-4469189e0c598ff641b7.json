@@ -1,0 +1,73 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"web2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 242,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "ref_programming_html::@d6e6acc081698dd614da",
+	"name" : "ref_programming_html",
+	"paths" : 
+	{
+		"build" : "web2",
+		"source" : "web2"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/web2/CMakeFiles/ref_programming_html",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/web2/CMakeFiles/ref_programming_html.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "web2/cadabra2/source/notebooks/ref_programming.html.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

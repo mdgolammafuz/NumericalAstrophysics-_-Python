@@ -1,0 +1,82 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"jupyterkernel/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/jupyter/kernels/cadabra2",
+			"paths" : 
+			[
+				"jupyterkernel/kernelspec/kernel.json",
+				"jupyterkernel/kernelspec/logo-32x32.png",
+				"jupyterkernel/kernelspec/logo-64x64.png"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cadabra2_jupyter",
+			"paths" : 
+			[
+				"jupyterkernel/cadabra2_jupyter/__init__.py",
+				"jupyterkernel/cadabra2_jupyter/__main__.py",
+				"jupyterkernel/cadabra2_jupyter/context.py",
+				"jupyterkernel/cadabra2_jupyter/completer.py",
+				"jupyterkernel/cadabra2_jupyter/kernel.py",
+				"jupyterkernel/cadabra2_jupyter/server.py"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/notebook/static/components/codemirror/mode/cadabra",
+			"paths" : 
+			[
+				"jupyterkernel/lexer/cadabra.js"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "jupyterkernel",
+		"source" : "jupyterkernel"
+	}
+}

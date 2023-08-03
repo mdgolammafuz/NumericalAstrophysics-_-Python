@@ -1,0 +1,169 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"frontend/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/cadabra2/latex",
+			"paths" : 
+			[
+				"frontend/common/preamble.tex"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/cadabra2/manual/algorithms",
+			"paths" : 
+			[
+				"frontend/../core/algorithms/asym.cnb",
+				"frontend/../core/algorithms/canonicalise.cnb",
+				"frontend/../core/algorithms/collect_factors.cnb",
+				"frontend/../core/algorithms/collect_terms.cnb",
+				"frontend/../core/algorithms/combine.cnb",
+				"frontend/../core/algorithms/complete.cnb",
+				"frontend/../core/algorithms/decompose.cnb",
+				"frontend/../core/algorithms/decompose_product.cnb",
+				"frontend/../core/algorithms/distribute.cnb",
+				"frontend/../core/algorithms/drop_weight.cnb",
+				"frontend/../core/algorithms/einsteinify.cnb",
+				"frontend/../core/algorithms/eliminate_kronecker.cnb",
+				"frontend/../core/algorithms/eliminate_metric.cnb",
+				"frontend/../core/algorithms/eliminate_vielbein.cnb",
+				"frontend/../core/algorithms/epsilon_to_delta.cnb",
+				"frontend/../core/algorithms/evaluate.cnb",
+				"frontend/../core/algorithms/expand.cnb",
+				"frontend/../core/algorithms/expand_delta.cnb",
+				"frontend/../core/algorithms/expand_diracbar.cnb",
+				"frontend/../core/algorithms/expand_dummies.cnb",
+				"frontend/../core/algorithms/expand_power.cnb",
+				"frontend/../core/algorithms/explicit_indices.cnb",
+				"frontend/../core/algorithms/factor_in.cnb",
+				"frontend/../core/algorithms/factor_out.cnb",
+				"frontend/../core/algorithms/fierz.cnb",
+				"frontend/../core/algorithms/integrate_by_parts.cnb",
+				"frontend/../core/algorithms/join_gamma.cnb",
+				"frontend/../core/algorithms/keep_weight.cnb",
+				"frontend/../core/algorithms/lower_free_indices.cnb",
+				"frontend/../core/algorithms/lr_tensor.cnb",
+				"frontend/../core/algorithms/map_sympy.cnb",
+				"frontend/../core/algorithms/meld.cnb",
+				"frontend/../core/algorithms/product_rule.cnb",
+				"frontend/../core/algorithms/raise_free_indices.cnb",
+				"frontend/../core/algorithms/reduce_delta.cnb",
+				"frontend/../core/algorithms/rename_dummies.cnb",
+				"frontend/../core/algorithms/replace_match.cnb",
+				"frontend/../core/algorithms/rewrite_indices.cnb",
+				"frontend/../core/algorithms/simplify.cnb",
+				"frontend/../core/algorithms/slot_asym.cnb",
+				"frontend/../core/algorithms/sort_product.cnb",
+				"frontend/../core/algorithms/sort_spinors.cnb",
+				"frontend/../core/algorithms/sort_sum.cnb",
+				"frontend/../core/algorithms/split_gamma.cnb",
+				"frontend/../core/algorithms/split_index.cnb",
+				"frontend/../core/algorithms/substitute.cnb",
+				"frontend/../core/algorithms/take_match.cnb",
+				"frontend/../core/algorithms/untrace.cnb",
+				"frontend/../core/algorithms/unwrap.cnb",
+				"frontend/../core/algorithms/vary.cnb",
+				"frontend/../core/algorithms/young_project_product.cnb",
+				"frontend/../core/algorithms/young_project_tensor.cnb",
+				"frontend/../core/algorithms/zoom.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/cadabra2/manual/properties",
+			"paths" : 
+			[
+				"frontend/../core/properties/Accent.cnb",
+				"frontend/../core/properties/AntiCommuting.cnb",
+				"frontend/../core/properties/AntiSymmetric.cnb",
+				"frontend/../core/properties/Commuting.cnb",
+				"frontend/../core/properties/CommutingAsProduct.cnb",
+				"frontend/../core/properties/CommutingAsSum.cnb",
+				"frontend/../core/properties/Coordinate.cnb",
+				"frontend/../core/properties/DAntiSymmetric.cnb",
+				"frontend/../core/properties/Depends.cnb",
+				"frontend/../core/properties/Derivative.cnb",
+				"frontend/../core/properties/Determinant.cnb",
+				"frontend/../core/properties/Diagonal.cnb",
+				"frontend/../core/properties/DiracBar.cnb",
+				"frontend/../core/properties/Distributable.cnb",
+				"frontend/../core/properties/EpsilonTensor.cnb",
+				"frontend/../core/properties/FilledTableau.cnb",
+				"frontend/../core/properties/GammaMatrix.cnb",
+				"frontend/../core/properties/ImplicitIndex.cnb",
+				"frontend/../core/properties/IndexInherit.cnb",
+				"frontend/../core/properties/Indices.cnb",
+				"frontend/../core/properties/Integer.cnb",
+				"frontend/../core/properties/InverseMetric.cnb",
+				"frontend/../core/properties/InverseVielbein.cnb",
+				"frontend/../core/properties/KroneckerDelta.cnb",
+				"frontend/../core/properties/LaTeXForm.cnb",
+				"frontend/../core/properties/Metric.cnb",
+				"frontend/../core/properties/NonCommuting.cnb",
+				"frontend/../core/properties/PartialDerivative.cnb",
+				"frontend/../core/properties/RiemannTensor.cnb",
+				"frontend/../core/properties/SatisfiesBianchi.cnb",
+				"frontend/../core/properties/SelfAntiCommuting.cnb",
+				"frontend/../core/properties/SelfCommuting.cnb",
+				"frontend/../core/properties/SelfNonCommuting.cnb",
+				"frontend/../core/properties/SortOrder.cnb",
+				"frontend/../core/properties/Spinor.cnb",
+				"frontend/../core/properties/Symbol.cnb",
+				"frontend/../core/properties/Symmetric.cnb",
+				"frontend/../core/properties/Tableau.cnb",
+				"frontend/../core/properties/TableauSymmetry.cnb",
+				"frontend/../core/properties/Trace.cnb",
+				"frontend/../core/properties/Vielbein.cnb",
+				"frontend/../core/properties/Weight.cnb",
+				"frontend/../core/properties/WeightInherit.cnb"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "frontend",
+		"source" : "frontend"
+	}
+}

@@ -14,5 +14,6 @@
     "Schz",
     "slicings"
   ],
-  "python.analysis.extraPaths": ["./sympy/sympy/utilities"]
+  "python.analysis.extraPaths": ["./sympy/sympy/utilities"],
+  "cmake.sourceDirectory": "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2"
 }

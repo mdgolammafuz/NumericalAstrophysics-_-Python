@@ -1,0 +1,190 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"frontend/gtkmm/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 120,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 136,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 158,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 159,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 160,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 161,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 162,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 163,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 165,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 187,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"frontend/gtkmm/cadabra2-gtk"
+			],
+			"targetId" : "cadabra2-gtk::@1f1497d05a9083358ac8",
+			"targetIndex" : 54,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/cadabra2/images",
+			"paths" : 
+			[
+				"images/256x256/cadabra2-gtk.png"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/icons/hicolor/64x64/apps",
+			"paths" : 
+			[
+				"images/64x64/cadabra2-gtk.png"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/icons/hicolor/128x128/apps",
+			"paths" : 
+			[
+				"images/128x128/cadabra2-gtk.png"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/icons/hicolor/256x256/apps",
+			"paths" : 
+			[
+				"images/256x256/cadabra2-gtk.png"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/icons/hicolor/scalable/apps",
+			"paths" : 
+			[
+				"images/cadabra2-gtk.svg"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/applications",
+			"paths" : 
+			[
+				"config/cadabra2-gtk.desktop"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				"frontend/gtkmm/../../man/man1/cadabra2-gtk.1"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "frontend/gtkmm",
+		"source" : "frontend/gtkmm"
+	}
+}

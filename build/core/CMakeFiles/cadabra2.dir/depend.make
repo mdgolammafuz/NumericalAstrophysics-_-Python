@@ -1,0 +1,2 @@
+# Empty dependencies file for cadabra2.
+# This may be replaced when dependencies are built.

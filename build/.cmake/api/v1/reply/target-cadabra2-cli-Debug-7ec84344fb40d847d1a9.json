@@ -1,0 +1,490 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "core/cadabra2-cli"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"link_directories",
+			"find_package",
+			"target_link_libraries",
+			"include",
+			"target_compile_definitions",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"core/CMakeLists.txt",
+			"cmake/modules/FindGLIBMM.cmake",
+			"libs/pybind11/tools/pybind11Tools.cmake",
+			"libs/pybind11/tools/pybind11Common.cmake",
+			"libs/pybind11/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 318,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 446,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 208,
+				"parent" : 7
+			},
+			{
+				"file" : 3,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 180,
+				"parent" : 9
+			},
+			{
+				"file" : 2,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 138,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 324,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 17,
+				"parent" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 266,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 325,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 13,
+					"define" : "CDBPYTHON_NO_NOTEBOOK"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/include/glibmm-2.4"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib/glibmm-2.4/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include/glib-2.0"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/lib/glib-2.0/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/opt/gettext/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/pcre2/10.42/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/include/sigc++-2.0"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib/sigc++-2.0/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core/."
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/internal/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/whereami"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/base64"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/dbg"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/linenoise"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/nlohmann"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/opt/homebrew/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core/pybind11::pybind11"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/pybind11/include"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/include/python3.11"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					6,
+					6,
+					6
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 13,
+					"define" : "CDBPYTHON_NO_NOTEBOOK"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/include/glibmm-2.4"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib/glibmm-2.4/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include/glib-2.0"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/lib/glib-2.0/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/opt/gettext/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/pcre2/10.42/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/include/sigc++-2.0"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib/sigc++-2.0/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core/."
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/internal/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/whereami"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/base64"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/dbg"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/linenoise"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/nlohmann"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/opt/homebrew/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core/pybind11::pybind11"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/pybind11/include"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/include/python3.11"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"id" : "cadabra2-cli::@57760688d1f824db5d9c",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/opt/homebrew/Cellar/glib/2.76.4/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/opt/homebrew/opt/gettext/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib -Wl,-rpath,/opt/homebrew/Cellar/glib/2.76.4/lib -Wl,-rpath,/opt/homebrew/opt/gettext/lib -Wl,-rpath,/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lglibmm-2.4",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lgobject-2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lglib-2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lintl",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lsigc-2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/libpython3.11.dylib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "cadabra2-cli",
+	"nameOnDisk" : "cadabra2-cli",
+	"paths" : 
+	{
+		"build" : "core",
+		"source" : "core"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/cadabra2-cli.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/CdbPython.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/InstallPrefix.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libs/whereami/whereami.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

@@ -1,0 +1,462 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "client_server/libcadabra_client.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"target_link_libraries",
+			"include_directories",
+			"find_package"
+		],
+		"files" : 
+		[
+			"client_server/CMakeLists.txt",
+			"cmake/modules/FindGLIBMM.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 17,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "BOOST_ASIO_HAS_STD_CHRONO"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_ATOMIC_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_ATOMIC_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_DATE_TIME_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_DATE_TIME_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_FILESYSTEM_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_FILESYSTEM_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_PROGRAM_OPTIONS_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_PROGRAM_OPTIONS_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_SYSTEM_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_SYSTEM_NO_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_WEBSOCKETPP_CPP11_STL_"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/include/glibmm-2.4"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib/glibmm-2.4/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include/glib-2.0"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/lib/glib-2.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/opt/gettext/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/pcre2/10.42/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/include/sigc++-2.0"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib/sigc++-2.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/client_server/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/pybind11/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/websocketpp"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/internal/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/whereami"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/base64"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/nlohmann"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/include/python3.11"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "BOOST_ASIO_HAS_STD_CHRONO"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_ATOMIC_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_ATOMIC_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_DATE_TIME_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_DATE_TIME_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_FILESYSTEM_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_FILESYSTEM_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_PROGRAM_OPTIONS_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_PROGRAM_OPTIONS_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_SYSTEM_DYN_LINK"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_SYSTEM_NO_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_WEBSOCKETPP_CPP11_STL_"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/include/glibmm-2.4"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glibmm@2.66/2.66.6/lib/glibmm-2.4/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/include/glib-2.0"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/glib/2.76.4/lib/glib-2.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/opt/gettext/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/pcre2/10.42/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/include/sigc++-2.0"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/opt/homebrew/Cellar/libsigc++@2/2.10.8/lib/sigc++-2.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/client_server/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/core"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/pybind11/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/websocketpp"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/internal/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/whereami"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/base64"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2/libs/nlohmann"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/include/python3.11"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		}
+	],
+	"id" : "cadabra_client::@6bf71bb7f09a61efcd80",
+	"name" : "cadabra_client",
+	"nameOnDisk" : "libcadabra_client.a",
+	"paths" : 
+	{
+		"build" : "client_server",
+		"source" : "client_server"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "client_server/ComputeThread.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "client_server/DocumentThread.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "client_server/Actions.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "client_server/Snoop.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/DataCell.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/Exceptions.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "core/InstallPrefix.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libs/whereami/whereami.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

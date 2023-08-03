@@ -1,0 +1,260 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"remove_file"
+		],
+		"files" : 
+		[
+			"cmake/functions.cmake",
+			"core/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 422,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 423,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 424,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 425,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 7
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 438,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 446,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 447,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 449,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 458,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 467,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 475,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 483,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 517,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages",
+			"paths" : 
+			[
+				"core/cadabra2.cpython-311-darwin.so"
+			],
+			"targetId" : "cadabra2::@57760688d1f824db5d9c",
+			"targetIndex" : 52,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cadabra2-cli"
+			],
+			"targetId" : "cadabra2-cli::@57760688d1f824db5d9c",
+			"targetIndex" : 53,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cdb-nbtool"
+			],
+			"targetId" : "cdb-nbtool::@57760688d1f824db5d9c",
+			"targetIndex" : 63,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages",
+			"paths" : 
+			[
+				"core/cadabra2_defaults.py",
+				"libs/appdirs/cdb_appdirs.py"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cadabra2"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cadabra2python"
+			],
+			"targetId" : "cadabra2python::@57760688d1f824db5d9c",
+			"targetIndex" : 59,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cadabra2ipynb"
+			],
+			"targetId" : "cadabra2ipynb::@57760688d1f824db5d9c",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"core/cadabra2cadabra"
+			],
+			"targetId" : "cadabra2cadabra::@57760688d1f824db5d9c",
+			"targetIndex" : 55,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				"core/../man/man1/cadabra2.1",
+				"core/../man/man1/cadabra2-cli.1",
+				"core/../man/man1/cadabra2cadabra.1",
+				"core/../man/man1/cadabra2ipynb.1",
+				"core/../man/man1/cadabra2html.1",
+				"core/../man/man1/cadabra2latex.1",
+				"core/../man/man1/cadabra2python.1"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "core",
+		"source" : "core"
+	}
+}

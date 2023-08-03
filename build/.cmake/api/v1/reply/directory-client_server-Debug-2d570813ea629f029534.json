@@ -1,0 +1,123 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"client_server/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 204,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 205,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 209,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 210,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 250,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/cadabra2",
+			"paths" : 
+			[
+				"client_server/notebook.tex"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/cadabra2",
+			"paths" : 
+			[
+				"client_server/notebook.html"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"client_server/cadabra-server"
+			],
+			"targetId" : "cadabra-server::@6bf71bb7f09a61efcd80",
+			"targetIndex" : 51,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"client_server/cadabra2html"
+			],
+			"targetId" : "cadabra2html::@6bf71bb7f09a61efcd80",
+			"targetIndex" : 56,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"client_server/cadabra2latex"
+			],
+			"targetId" : "cadabra2latex::@6bf71bb7f09a61efcd80",
+			"targetIndex" : 58,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				"client_server/../man/man1/cadabra-server.1"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "client_server",
+		"source" : "client_server"
+	}
+}

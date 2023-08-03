@@ -1,0 +1,528 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"web2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 316,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "book::@d6e6acc081698dd614da",
+	"name" : "book",
+	"paths" : 
+	{
+		"build" : "web2",
+		"source" : "web2"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/web2/CMakeFiles/book",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/web2/CMakeFiles/book.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/the_cadabra_book.pdf.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/asym.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/canonicalise.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/collect_factors.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/collect_terms.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/combine.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/complete.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/decompose.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/decompose_product.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/distribute.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/drop_weight.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/einsteinify.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/eliminate_kronecker.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/eliminate_metric.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/eliminate_vielbein.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/epsilon_to_delta.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/evaluate.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/expand.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/expand_delta.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/expand_diracbar.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/expand_power.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/explicit_indices.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/factor_in.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/factor_out.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/fierz.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/input_format.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/integrate_by_parts.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/join_gamma.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/keep_weight.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/lower_free_indices.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/lr_tensor.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/map_sympy.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/meld.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/product_rule.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/raise_free_indices.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/reduce_delta.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_c++_library.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_default_simplification.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_derivatives.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_implicit_versus_explicit.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_import.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_indices.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_numerical.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_patterns.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_printing.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_programming.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_properties.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/ref_selecting.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/rename_dummies.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/replace_match.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/rewrite_indices.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/simplify.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/slot_asym.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/sort_product.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/sort_spinors.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/sort_sum.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/split_gamma.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/split_index.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/substitute.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/take_match.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/untrace.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/unwrap.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/vary.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/young_project_product.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/young_project_tensor.tex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/build/book/zoom.tex.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

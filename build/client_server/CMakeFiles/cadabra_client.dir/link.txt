@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcadabra_client.a CMakeFiles/cadabra_client.dir/ComputeThread.cc.o CMakeFiles/cadabra_client.dir/DocumentThread.cc.o CMakeFiles/cadabra_client.dir/Actions.cc.o CMakeFiles/cadabra_client.dir/Snoop.cc.o CMakeFiles/cadabra_client.dir/__/core/DataCell.cc.o CMakeFiles/cadabra_client.dir/__/core/Exceptions.cc.o CMakeFiles/cadabra_client.dir/__/core/InstallPrefix.cc.o CMakeFiles/cadabra_client.dir/__/libs/whereami/whereami.c.o
+/usr/bin/ranlib libcadabra_client.a

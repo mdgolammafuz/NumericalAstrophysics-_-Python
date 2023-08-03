@@ -1,0 +1,319 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"core/packages/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/core",
+			"paths" : 
+			[
+				"core/packages/cdb/core/component.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/core",
+			"paths" : 
+			[
+				"core/packages/cdb/core/manip.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/core",
+			"paths" : 
+			[
+				"core/packages/cdb/core/solve.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/core",
+			"paths" : 
+			[
+				"core/packages/cdb/core/trace.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/numeric",
+			"paths" : 
+			[
+				"core/packages/cdb/numeric/integrate.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/numeric",
+			"paths" : 
+			[
+				"core/packages/cdb/numeric/evaluate.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/graphics",
+			"paths" : 
+			[
+				"core/packages/cdb/graphics/plot.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/utils",
+			"paths" : 
+			[
+				"core/packages/cdb/utils/node.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/utils",
+			"paths" : 
+			[
+				"core/packages/cdb/utils/indices.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/utils",
+			"paths" : 
+			[
+				"core/packages/cdb/utils/develop.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/utils",
+			"paths" : 
+			[
+				"core/packages/cdb/utils/tableau.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/sympy",
+			"paths" : 
+			[
+				"core/packages/cdb/sympy/solvers.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/sympy",
+			"paths" : 
+			[
+				"core/packages/cdb/sympy/calculus.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/gauge_theory",
+			"paths" : 
+			[
+				"core/packages/cdb/gauge_theory/instantons.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/relativity",
+			"paths" : 
+			[
+				"core/packages/cdb/relativity/abstract.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/relativity",
+			"paths" : 
+			[
+				"core/packages/cdb/relativity/schwarzschild.cnb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/core",
+			"paths" : 
+			[
+				"core/packages/cdb/core/_component.cpython-311-darwin.so"
+			],
+			"targetId" : "_component::@1fef5dfded06f39e8d47",
+			"targetIndex" : 40,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/cdb/utils",
+			"paths" : 
+			[
+				"core/packages/cdb/utils/_algorithm.cpython-311-darwin.so"
+			],
+			"targetId" : "_algorithm::@1fef5dfded06f39e8d47",
+			"targetIndex" : 39,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "core/packages",
+		"source" : "core/packages"
+	}
+}

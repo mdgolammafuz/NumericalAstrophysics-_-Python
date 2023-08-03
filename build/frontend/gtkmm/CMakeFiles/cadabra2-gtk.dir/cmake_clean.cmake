@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/cadabra2-gtk.dir/Cadabra.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/Cadabra.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/ChooseColoursDialog.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/ChooseColoursDialog.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/CodeInput.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/CodeInput.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/Console.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/Console.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/DiffViewer.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/DiffViewer.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/ImageView.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/ImageView.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/Keywords.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/Keywords.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/NotebookCanvas.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/NotebookCanvas.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/NotebookWindow.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/NotebookWindow.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/SelectFileDialog.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/SelectFileDialog.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/TeXView.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/TeXView.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/base64/base64.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/base64/base64.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/tiny-process-library/process.cpp.o"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/tiny-process-library/process.cpp.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/tiny-process-library/process_unix.cpp.o"
+  "CMakeFiles/cadabra2-gtk.dir/__/__/libs/tiny-process-library/process_unix.cpp.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/__/common/TeXEngine.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/__/common/TeXEngine.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/__/common/lodepng.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/__/common/lodepng.cc.o.d"
+  "CMakeFiles/cadabra2-gtk.dir/main.cc.o"
+  "CMakeFiles/cadabra2-gtk.dir/main.cc.o.d"
+  "cadabra2-gtk"
+  "cadabra2-gtk.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/cadabra2-gtk.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

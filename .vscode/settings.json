@@ -5,6 +5,7 @@
     "eigen",
     "Harmonograph",
     "Indexin",
+    "ineq",
     "integ",
     "logspace",
     "Matthes",
@@ -15,5 +16,6 @@
     "slicings"
   ],
   "python.analysis.extraPaths": ["./sympy/sympy/utilities"],
-  "cmake.sourceDirectory": "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2"
+  "cmake.sourceDirectory": "/Users/mdgolammafuz/Desktop/Numerical_Astrophysics/cadabra2",
+  "python.analysis.typeCheckingMode": "basic"
 }

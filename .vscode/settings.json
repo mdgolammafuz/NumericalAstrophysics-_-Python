@@ -2,7 +2,9 @@
   "cSpell.words": [
     "Amit",
     "collatz",
+    "distplot",
     "eigen",
+    "Errorbar",
     "Harmonograph",
     "Indexin",
     "ineq",
@@ -13,6 +15,7 @@
     "Saha",
     "sampledict",
     "Schz",
+    "sharey",
     "slicings"
   ],
   "python.analysis.extraPaths": ["./sympy/sympy/utilities"],
